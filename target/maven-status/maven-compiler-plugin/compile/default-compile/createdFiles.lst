@@ -1,0 +1,13 @@
+dao\HomeworkMapper.class
+dao\StudentHomeworkMapper.class
+service\StudentService.class
+dao\TeacherMapper.class
+controller\ApiController.class
+service\impl\TeacherServiceI.class
+model\Student.class
+model\Teacher.class
+service\TeacherService.class
+model\Homework.class
+model\StudentHomework.class
+service\impl\StudentServiceI.class
+dao\StudentMapper.class
